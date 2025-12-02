@@ -4,7 +4,17 @@
 			"path": "."
 		}
 	],
-	"settings": {},
+	"settings": {
+		"autoDocstring.docstringFormat": "numpy",
+		"autoDocstring.includeName": true,
+		"autoDocstring.startOnNewLine": true,
+		"python.testing.pytestEnabled": true,
+		"python.analysis.inlayHints.pytestParameters": true,
+		"pythonTestExplorer.testFramework": "pytest",
+		"editor.defaultFormatter": "ms-python.black-formatter",
+		"editor.formatOnPaste": true,
+		"editor.formatOnSave": true
+	},
 	"launch": {
 		"version": "0.2.0",
 		"configurations": [
