@@ -3,5 +3,5 @@
      This module contains all global settings used in the game.
 """
 import pygame #pylint: disable=unused-import
-WINDOW_WIDTH = 800
-WINDOW_HEIGHT = 600
+WINDOW_WIDTH = 1000
+WINDOW_HEIGHT = 1000

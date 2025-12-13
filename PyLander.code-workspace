@@ -11,9 +11,10 @@
 		"python.testing.pytestEnabled": true,
 		"python.analysis.inlayHints.pytestParameters": true,
 		"pythonTestExplorer.testFramework": "pytest",
-		"editor.defaultFormatter": "ms-python.black-formatter",
+		"editor.defaultFormatter": "ms-python.python",
 		"editor.formatOnPaste": true,
-		"editor.formatOnSave": true
+		"editor.formatOnSave": true,
+		"autoDocstring.includeExtendedSummary": true
 	},
 	"launch": {
 		"version": "0.2.0",
